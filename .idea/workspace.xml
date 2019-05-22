@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0f76373-dda2-4cf6-a57f-0ca82da5b7d4" name="Default Changelist" comment="" />
+    <list default="true" id="f0f76373-dda2-4cf6-a57f-0ca82da5b7d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/readmi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readmi.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/co/com/beans/Persona.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -72,6 +74,15 @@
                 <element signature="e#360#361#0" expanded="true" />
                 <element signature="e#396#397#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readmi.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -114,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/co/com/beans/Usuario.java" />
         <option value="$PROJECT_DIR$/src/co/com/bussineslogic/MainClass.java" />
         <option value="$PROJECT_DIR$/src/co/com/beans/Persona.java" />
+        <option value="$PROJECT_DIR$/readmi.txt" />
       </list>
     </option>
   </component>
@@ -304,6 +316,13 @@
             <element signature="e#360#361#0" expanded="true" />
             <element signature="e#396#397#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readmi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
