@@ -3,6 +3,7 @@ package co.com.beans;
 public class Persona {
     private String telefono;
     private String correo;
+    private String apellido;
 
     public String getTelefono() {
         return telefono;
